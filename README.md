@@ -14,9 +14,11 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0014-longest-common-prefix) |
 ## Trie
 |  |
@@ -29,6 +31,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
