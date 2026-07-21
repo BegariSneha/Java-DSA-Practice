@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0283-move-zeroes](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
