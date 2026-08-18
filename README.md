@@ -12,12 +12,14 @@
 | [0088-merge-sorted-array](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0283-move-zeroes) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0013-roman-to-integer) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
 | ------- |
