@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0283-move-zeroes) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1386-cinema-seat-allocation) |
 | [2248-intersection-of-multiple-arrays](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [2248-intersection-of-multiple-arrays](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Divide and Conquer
 |  |
