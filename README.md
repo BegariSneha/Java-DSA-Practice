@@ -31,6 +31,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0038-count-and-say) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Trie
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0283-move-zeroes) |
 ## Sorting
@@ -100,4 +102,20 @@
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
