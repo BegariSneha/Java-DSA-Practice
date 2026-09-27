@@ -13,6 +13,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0283-move-zeroes) |
 | [1386-cinema-seat-allocation](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [2248-intersection-of-multiple-arrays](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [1386-cinema-seat-allocation](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+| [2248-intersection-of-multiple-arrays](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/2248-intersection-of-multiple-arrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## String
 |  |
@@ -52,6 +54,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0088-merge-sorted-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -81,4 +84,8 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1386-cinema-seat-allocation) |
+## Counting
+|  |
+| ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/2248-intersection-of-multiple-arrays) |
 <!---LeetCode Topics End-->
