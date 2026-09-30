@@ -42,11 +42,13 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0069-sqrtx) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -118,4 +120,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
