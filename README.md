@@ -31,6 +31,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0038-count-and-say) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -105,6 +106,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String Matching
@@ -127,4 +129,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
