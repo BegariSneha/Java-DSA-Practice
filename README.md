@@ -34,6 +34,7 @@
 | [0022-generate-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0038-count-and-say) |
+| [1021-remove-outermost-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Trie
@@ -101,12 +102,14 @@
 ## Stack
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/0022-generate-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BegariSneha/Java-DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## String Matching
